@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+.fondo {
+	background-color: #ffa2a8;
+	
+}
+.primer {	
+	font-family: 'Palanquin', sans-serif;
+}
+
+.second , #boton{	
+	font-family: 'Kaushan Script', cursive;
+}
+
+#back {	
+	background-image: url(../img/2.png);
+	background-repeat: no-repeat;
+	background-size: 120%;	
+}
+
+#card1 {	
+	max-width: 100%;
+}
+
+#boton {	
+	background-color: #81c9d8;
+}
